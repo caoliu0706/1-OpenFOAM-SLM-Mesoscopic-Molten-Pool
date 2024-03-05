@@ -24,7 +24,6 @@ Email: caoliu@gzhu.edu.cn
 
 ResearchGate: https://www.researchgate.net/profile/Cao-Liu
 
-
 （1）本项目是关于：基于计算流体力学（CFD）平台OpenFOAM，预测激光选区熔化（SLM）过程中的介观熔池动力学行为。
 
 （2）本求解器是基于OpenFOAM-6进行的，因此，编译本求解器之前，请安装好OpenFOAM-6。
