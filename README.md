@@ -6,19 +6,19 @@
 
 (4) Papers related to this project include (feel free to cite related papers if this solver was used):
 
-  a) Liu Cao, Wei Guan. Simulation and analysis of LPBF multi-layer single-track forming process under different particle size distributions[J]. International Journal of Advanced Manufacturing Technology, 2021, 114: 2141-2157
+a) Liu Cao, Wei Guan. Simulation and analysis of LPBF multi-layer single-track forming process under different particle size distributions[J]. International Journal of Advanced Manufacturing Technology, 2021, 114: 2141-2157
   
-  b) Liu Cao. Numerical investigation on molten pool dynamics during multi-laser array powder bed fusion process[J]. Metallurgical and Materials Transactions A, 2021, 52: 211-227
+b) Liu Cao. Numerical investigation on molten pool dynamics during multi-laser array powder bed fusion process[J]. Metallurgical and Materials Transactions A, 2021, 52: 211-227
   
-  c) Liu Cao. Mesoscopic-scale numerical investigation including the influence of scanning strategy on selective laser melting process[J]. Computational Materials Science, 2021, 189: 110263
+c) Liu Cao. Mesoscopic-scale numerical investigation including the influence of scanning strategy on selective laser melting process[J]. Computational Materials Science, 2021, 189: 110263
   
-  d) Liu Cao. Mesoscopic-Scale Numerical Investigation Including the Influence of Process Parameters on LPBF Multi-Layer Multi-Path Formation[J]. Computer Modeling in Engineering & Sciences, 2021, 126(1): 5-23
+d) Liu Cao. Mesoscopic-Scale Numerical Investigation Including the Influence of Process Parameters on LPBF Multi-Layer Multi-Path Formation[J]. Computer Modeling in Engineering & Sciences, 2021, 126(1): 5-23
   
-  e) Liu Cao. Mesoscopic-scale Numerical Simulation including the Influence of Process Parameters on SLM Single-layer Multi-pass Formation[J]. Metallurgical and Materials Transactions A, 2020, 51: 4130-4145
+e) Liu Cao. Mesoscopic-scale Numerical Simulation including the Influence of Process Parameters on SLM Single-layer Multi-pass Formation[J]. Metallurgical and Materials Transactions A, 2020, 51: 4130-4145
   
-  f) Liu Cao. Mesoscopic-scale simulation of pore evolution during laser powder bed fusion process[J]. Computational Materials Science, 2020, 179: 109686
+f) Liu Cao. Mesoscopic-scale simulation of pore evolution during laser powder bed fusion process[J]. Computational Materials Science, 2020, 179: 109686
   
-  g) Liu Cao. Numerical simulation of the impact of laying powder on selective laser melting single-pass formation[J]. International Journal of Heat and Mass Transfer, 2019, 141: 1036-1048
+g) Liu Cao. Numerical simulation of the impact of laying powder on selective laser melting single-pass formation[J]. International Journal of Heat and Mass Transfer, 2019, 141: 1036-1048
   
 Email: caoliu@gzhu.edu.cn
 
@@ -32,19 +32,19 @@ ResearchGate: https://www.researchgate.net/profile/Cao-Liu
 
 （4）与本项目相关的论文包括（若使用了本求解器，欢迎引用相关文献）：
 
-  a）Liu Cao, Wei Guan. Simulation and analysis of LPBF multi-layer single-track forming process under different particle size distributions[J]. International Journal of Advanced Manufacturing Technology, 2021, 114: 2141-2157
+a）Liu Cao, Wei Guan. Simulation and analysis of LPBF multi-layer single-track forming process under different particle size distributions[J]. International Journal of Advanced Manufacturing Technology, 2021, 114: 2141-2157
   
-  b）Liu Cao. Numerical investigation on molten pool dynamics during multi-laser array powder bed fusion process[J]. Metallurgical and Materials Transactions A, 2021, 52: 211-227
+b）Liu Cao. Numerical investigation on molten pool dynamics during multi-laser array powder bed fusion process[J]. Metallurgical and Materials Transactions A, 2021, 52: 211-227
   
-  c）Liu Cao. Mesoscopic-scale numerical investigation including the influence of scanning strategy on selective laser melting process[J]. Computational Materials Science, 2021, 189: 110263
+c）Liu Cao. Mesoscopic-scale numerical investigation including the influence of scanning strategy on selective laser melting process[J]. Computational Materials Science, 2021, 189: 110263
   
-  d）Liu Cao. Mesoscopic-Scale Numerical Investigation Including the Influence of Process Parameters on LPBF Multi-Layer Multi-Path Formation[J]. Computer Modeling in Engineering & Sciences, 2021, 126(1): 5-23
+d）Liu Cao. Mesoscopic-Scale Numerical Investigation Including the Influence of Process Parameters on LPBF Multi-Layer Multi-Path Formation[J]. Computer Modeling in Engineering & Sciences, 2021, 126(1): 5-23
   
-  e）Liu Cao. Mesoscopic-scale Numerical Simulation including the Influence of Process Parameters on SLM Single-layer Multi-pass Formation[J]. Metallurgical and Materials Transactions A, 2020, 51: 4130-4145
+e）Liu Cao. Mesoscopic-scale Numerical Simulation including the Influence of Process Parameters on SLM Single-layer Multi-pass Formation[J]. Metallurgical and Materials Transactions A, 2020, 51: 4130-4145
   
-  f）Liu Cao. Mesoscopic-scale simulation of pore evolution during laser powder bed fusion process[J]. Computational Materials Science, 2020, 179: 109686
+f）Liu Cao. Mesoscopic-scale simulation of pore evolution during laser powder bed fusion process[J]. Computational Materials Science, 2020, 179: 109686
   
-  g）Liu Cao. Numerical simulation of the impact of laying powder on selective laser melting single-pass formation[J]. International Journal of Heat and Mass Transfer, 2019, 141: 1036-1048
+g）Liu Cao. Numerical simulation of the impact of laying powder on selective laser melting single-pass formation[J]. International Journal of Heat and Mass Transfer, 2019, 141: 1036-1048
   
 邮箱：caoliu@gzhu.edu.cn
 
